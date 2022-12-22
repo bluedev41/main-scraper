@@ -1,0 +1,9 @@
+beautifulsoup4
+black
+flake8
+httpx
+ipython
+playwright
+pre-commit
+python-dotenv
+selenium
